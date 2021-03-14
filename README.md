@@ -5,6 +5,8 @@ Uses infinite series to calculate Pi
 - Nilakantha Series
 - Riemann Zeta Function
 
+[Demo at pi.feli.page](https://pi.feli.page/)
+
 # Usage
 
 ## Install
